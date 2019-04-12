@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="features_four" type="id">resourse_four</item>
+    <item name="features_five" type="id">resourse_five</item>
+    <item name="features_six" type="id">features_six</item>
+    <item name="features_seven" type="id">features_seven</item>
+    <item name="features_eight" type="id">features_eight</item>
+    <item name="features_nine" type="id">features_nine</item>
+    <item name="features_ten" type="id">resourse_ten</item>
+    <item name="features_eleven" type="id">resourse_eleven</item>
+    <item name="features_twelve" type="id">resourse_twelve</item>
+    <item name="features_fifteen" type="id">features_sixtenn</item>
+    <item name="features_sixteen" type="id">features_seventeen</item>
+    <item name="features_seventeen" type="id">features_seventeen</item>
+    <item name="features_eighteen" type="id">features_eighteen</item>
+    <item name="features_nineteen" type="id">features_nineteen</item>
+    <item name="features_twenty" type="id">features_twenty</item>
+    <item name="features_twentyone" type="id">features_twentyone</item>
+    <item name="features_twentytwo" type="id">features_twentytwo</item>
+    <item name="features_twentythree" type="id">features_ternty</item>
+    <item name="features_twentyfour" type="id">features_twentyfour</item>
+    <item name="features_twentysix" type="id">features_twentysix</item>
+    <item name="features_twentyseven" type="id">features_twentyseven</item>
+    <item name="features_twentyeight" type="id">features_twentyeight</item>
+    <item name="features_twentynine" type="id">features_twentynine</item>
+    <item name="features_thirty" type="id">features_thirty</item>
+    <item name="features_thirtyone" type="id">features_thirtyone</item>
+</resources>

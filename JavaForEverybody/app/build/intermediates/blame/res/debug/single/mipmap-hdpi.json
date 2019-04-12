@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher2.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-hdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_iamcoder.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-hdpi/ic_iamcoder.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_action_add.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-hdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/mipmap-hdpi/my_launcher.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-hdpi/my_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/mipmap-hdpi/my_ic_launcher.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-hdpi/my_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

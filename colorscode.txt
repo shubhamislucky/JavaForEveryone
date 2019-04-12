@@ -1,0 +1,1 @@
+purple(), magenta(for class names), blue(), grey(for comments)

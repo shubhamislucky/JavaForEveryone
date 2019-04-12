@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_name.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/drawable-xxhdpi/drawer_shadow.9.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/drawable-xxhdpi/main_title_logo.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/drawable-xxhdpi/main_title_logo.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/debug/drawable-xxhdpi/mymenu.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/drawable-xxhdpi/mymenu.png"
+    }
+]

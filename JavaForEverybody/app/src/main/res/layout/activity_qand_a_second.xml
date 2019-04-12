@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="me.shubhamsingh.javaforeverybody.QandA_second"
+    android:background="#f1f1f1"
+    android:orientation="vertical">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/features_first"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/qanda"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/features_head"
+            android:letterSpacing="0.03"
+            android:lineSpacingMultiplier="1.2"
+            android:textSize="16sp"
+            android:padding="7dp"
+            android:textColor="#f1a727"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/features_second"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/qanda"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/features_def"
+            android:letterSpacing="0.03"
+            android:lineSpacingMultiplier="1.4"
+            android:textSize="16sp"
+            android:padding="15dp"
+            android:textColor="#222"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="3"
+            android:shadowColor="#f1f1f1"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="15dp"
+            />
+
+
+
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>

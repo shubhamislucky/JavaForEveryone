@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/menu/main2.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/menu/main2.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/menu/menu_about_me.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/menu/menu_about_me.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/menu/global.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/menu/menu_main.xml"
+    }
+]

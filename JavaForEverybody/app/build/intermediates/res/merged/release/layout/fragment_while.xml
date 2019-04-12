@@ -1,0 +1,135 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="me.shubhamsingh.javaforeverybody.While"
+    android:background="#ffffff" android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/while_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#f1a727"
+                android:text="@string/while_head"
+                android:gravity="center_horizontal"
+                android:layout_centerHorizontal="true"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:textSize="20sp"
+                android:letterSpacing="0.03"
+                android:background="#efefef"
+                />
+            <TextView
+                android:id="@+id/while_two"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#333"
+                android:textSize="17sp"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:lineSpacingMultiplier="1.2"
+                android:letterSpacing="0.02"
+                android:text="@string/while_def"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:id="@+id/while_three"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#333"
+                android:textSize="14sp"
+                android:letterSpacing="0.03"
+                android:lineSpacingMultiplier="1.7"
+                android:gravity="fill_horizontal"
+                android:background="@drawable/rounded_corner"
+                android:padding="15dp"
+                android:text="@string/while_syntax"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+            <TextView
+                android:id="@+id/while_four"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#333"
+                android:textSize="17sp"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:lineSpacingMultiplier="1.2"
+                android:letterSpacing="0.02"
+                android:text="@string/while_syntax_explain"
+                android:layout_marginTop="30dp"
+                android:paddingLeft="15dp"
+                />
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/while_five"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#333"
+                    android:textSize="14sp"
+                    android:letterSpacing="0.03"
+                    android:lineSpacingMultiplier="1.7"
+                    android:gravity="fill_horizontal"
+                    android:background="@drawable/rounded_corner"
+                    android:paddingLeft="8dp"
+                    android:paddingBottom="15dp"
+                    android:paddingTop="15dp"
+                    android:paddingRight="10dp"
+                    android:text="@string/while_ex"
+                    android:layout_marginTop="30dp"
+                    android:scrollHorizontally="true"
+                    />
+            </HorizontalScrollView>
+            <TextView
+                android:id="@+id/while_six"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#555"
+                android:textSize="17sp"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:lineSpacingMultiplier="1.2"
+                android:letterSpacing="0.02"
+                android:text="@string/misc_output"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:id="@+id/while_seven"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="15sp"
+                android:letterSpacing="0.03"
+                android:lineSpacingMultiplier="1.2"
+                android:gravity="fill_horizontal"
+                android:background="@drawable/commandprompt"
+                android:paddingLeft="15dp"
+                android:paddingBottom="20dp"
+                android:paddingTop="15dp"
+                android:text="@string/while_output"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

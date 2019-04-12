@@ -1,0 +1,133 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#efefef"
+    android:id="@+id/justanid">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/mainlogo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Java For Everyone"
+                android:layout_centerHorizontal="true"
+                android:textSize="23sp"
+                android:textColor="#fff"
+                android:letterSpacing="0.03"
+                android:layout_gravity="center"
+                android:shadowRadius="3"
+                android:shadowDy="1"
+                android:shadowDx="1"
+                android:shadowColor="#554dff"
+                android:background="#8b85ff"
+                android:gravity="center_horizontal"
+                android:paddingTop="30dp"
+                android:paddingBottom="30dp"
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_corners"
+                android:text="\nGet\nstarted\nwith\n\nJ A V A\n"
+                android:id="@+id/button1"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="25dp"
+                android:layout_alignParentTop="false"
+                android:lineSpacingMultiplier="1.2"
+                android:letterSpacing="0.05"
+                android:onClick="navDrawer"
+                android:textAllCaps="false"
+                android:layout_gravity="center_horizontal"
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_corners2"
+                android:text="@string/QnA"
+                android:letterSpacing="0.05"
+                android:id="@+id/mybutton"
+                android:textSize="16sp"
+                android:textColor="#090909"
+                android:layout_marginTop="40dp"
+                android:layout_centerHorizontal="true"
+                android:textAllCaps="false"
+                android:onClick="hello"
+                android:layout_gravity="center_horizontal"
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_corners2"
+                android:text="Programs"
+                android:letterSpacing="0.05"
+                android:id="@+id/buttonpdf"
+                android:textSize="16sp"
+                android:textColor="#090909"
+                android:layout_marginTop="30dp"
+                android:layout_centerHorizontal="true"
+                android:textAllCaps="false"
+                android:onClick="prog"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/myFAB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_iamcoder"
+        app:elevation="10dp"
+        app:backgroundTint="#ffff4d"
+        app:borderWidth="0dp"
+        app:rippleColor="#000000"
+        android:baselineAlignBottom="true"
+        android:onClick="iamcoder"
+        android:layout_alignBottom="@+id/scrollView"
+        android:layout_alignRight="@+id/scrollView"
+        android:layout_alignEnd="@+id/scrollView"
+        android:layout_marginRight="22dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="26dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/myshare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_action_add"
+        app:elevation="10dp"
+        app:backgroundTint="#ffff4d"
+        app:borderWidth="0dp"
+        app:rippleColor="#000000"
+        android:baselineAlignBottom="true"
+        android:onClick="aboutUs"
+        android:layout_marginLeft="22dp"
+        android:layout_marginStart="23dp"
+        android:layout_alignBaseline="@+id/myFAB"
+        android:layout_alignBottom="@+id/myFAB"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
+

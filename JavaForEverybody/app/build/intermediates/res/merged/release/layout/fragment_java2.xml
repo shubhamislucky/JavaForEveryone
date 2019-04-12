@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="me.shubhamsingh.javaforeverybody.java2"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/java2one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="22sp"
+                android:paddingLeft="9dp"
+                android:textColor="#000000"
+                android:text="History of Java : "
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:textStyle="bold"
+                android:background="#efefef"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/javaintro"
+                android:text="@string/hello_blank_fragment"
+                android:layout_centerHorizontal="true"
+                android:textSize="17sp"
+                android:layout_marginTop="20dp"
+                android:padding="7dp"
+                android:textColor="#00ab6b"
+                android:gravity="fill_horizontal"
+                android:lineSpacingMultiplier="1.4"
+                android:letterSpacing="0.03"
+                />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/goslingfinal"
+                />
+            <TextView
+                android:id="@+id/java2second"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textSize="17sp"
+                android:textColor="#333333"
+                android:layout_marginTop="35dp"
+                android:text="@string/historyjava"
+                android:padding="7dp"
+                android:textAllCaps="false"
+                android:letterSpacing="0.02"
+                android:lineSpacingMultiplier="1.2"
+                />
+            <TextView
+                android:id="@+id/java2third"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textSize="17sp"
+                android:textColor="#333333"
+                android:layout_marginTop="20dp"
+                android:text="@string/javahistory"
+                android:padding="7dp"
+                android:gravity="fill_horizontal"
+                android:letterSpacing="0.02"
+                android:lineSpacingMultiplier="1.2"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

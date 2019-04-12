@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.shubhamsingh.javaforeverybody"
+    android:versionCode="5"
+    android:versionName="1.4" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <!-- Required permission for App measurement to run. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="me.shubhamsingh.javaforeverybody.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="me.shubhamsingh.javaforeverybody.permission.C2D_MESSAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Splash"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Coder"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Main2Activity"
+            android:label="@string/title_activity_main2" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.AboutMe"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QuesAns"
+            android:label="@string/title_activity_ques_ans" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_first"
+            android:label="@string/title_activity_qand_a_first" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_second"
+            android:label="@string/title_activity_qand_a_second" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_third"
+            android:label="@string/title_activity_qand_a_third" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_four"
+            android:label="@string/title_activity_qand_a_four" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_fifth"
+            android:label="@string/title_activity_qand_a_fifth" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_six"
+            android:label="@string/title_activity_qand_a_six" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_seven"
+            android:label="@string/title_activity_qand_a_seven" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_eight"
+            android:label="@string/title_activity_qand_a_eight" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_nine"
+            android:label="@string/title_activity_qand_a_nine" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_ten"
+            android:label="@string/title_activity_qand_a_ten" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_eleven"
+            android:label="@string/title_activity_qand_a_eleven" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twelve"
+            android:label="@string/title_activity_qand_a_twelve" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_thirteen"
+            android:label="@string/title_activity_qand_a_thirteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_fourteen"
+            android:label="@string/title_activity_qand_a_fourteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_fifteen"
+            android:label="@string/title_activity_qand_a_fifteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_sixteen"
+            android:label="@string/title_activity_qand_a_sixteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_seventeen"
+            android:label="@string/title_activity_qand_a_seventeen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_eighteen"
+            android:label="@string/title_activity_qand_a_eighteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_nineteen"
+            android:label="@string/title_activity_qand_a_nineteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twenty"
+            android:label="@string/title_activity_qand_a_twenty" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentyone"
+            android:label="@string/title_activity_qand_a_twentyone" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentytwo"
+            android:label="@string/title_activity_qand_a_twentytwo" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentythree"
+            android:label="@string/title_activity_qand_a_twentythree" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentyfour"
+            android:label="@string/title_activity_qand_a_twentyfour" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentyfive"
+            android:label="@string/title_activity_qand_a_twentyfive" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentysix"
+            android:label="@string/title_activity_qand_a_twentysix" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentyseven"
+            android:label="@string/title_activity_qand_a_twentyseven" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentyeight"
+            android:label="@string/title_activity_qand_a_twentyeight" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_twentynine"
+            android:label="@string/title_activity_qand_a_twentynine" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_thirty"
+            android:label="@string/title_activity_qand_a_thirty" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_thirtyone"
+            android:label="@string/title_activity_qand_a_thirtyone" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_thirtytwo"
+            android:label="@string/title_activity_qand_a_thirtytwo" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_thirtythree"
+            android:label="@string/title_activity_qand_a_thirtythree" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_thirtyfour"
+            android:label="@string/title_activity_qand_a_thirtyfour" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.QandA_thirtyfive"
+            android:label="@string/title_activity_qand_a_thirtyfive" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Programs"
+            android:label="@string/title_activity_programs" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_first"
+            android:label="@string/title_activity_program_first" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_second"
+            android:label="@string/title_activity_program_second" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_third"
+            android:label="@string/title_activity_program_third" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_four"
+            android:label="@string/title_activity_program_four" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_five"
+            android:label="@string/title_activity_program_five" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_six"
+            android:label="@string/title_activity_program_six" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_seven"
+            android:label="@string/title_activity_program_seven" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_eight"
+            android:label="@string/title_activity_program_eight" />
+
+        <service android:name="me.shubhamsingh.javaforeverybody.MyFirebaseMessagingService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_nine"
+            android:label="@string/title_activity_program_nine" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_ten"
+            android:label="@string/title_activity_program_ten" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_eleven"
+            android:label="@string/title_activity_program_eleven" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_twelve"
+            android:label="@string/title_activity_program_twelve" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_thirteen"
+            android:label="@string/title_activity_program_thirteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_fourteen"
+            android:label="@string/title_activity_program_fourteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_fifteen"
+            android:label="@string/title_activity_program_fifteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_sixteen"
+            android:label="@string/title_activity_program_sixteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_seventeen"
+            android:label="@string/title_activity_program_seventeen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_eighteen"
+            android:label="@string/title_activity_program_eighteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_nineteen"
+            android:label="@string/title_activity_program_nineteen" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_twenty"
+            android:label="@string/title_activity_program_twenty" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_twentyone"
+            android:label="@string/title_activity_program_twentyone" />
+        <activity
+            android:name="me.shubhamsingh.javaforeverybody.Program_twentytwo"
+            android:label="@string/title_activity_program_twentytwo" />
+        <activity android:name="me.shubhamsingh.javaforeverybody.QandA_thirtysix" />
+        <activity android:name="me.shubhamsingh.javaforeverybody.Program_twentythree" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="me.shubhamsingh.javaforeverybody" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="me.shubhamsingh.javaforeverybody.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

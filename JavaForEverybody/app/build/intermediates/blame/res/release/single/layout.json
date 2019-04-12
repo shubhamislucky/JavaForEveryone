@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_eleven.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_eleven.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_do_while.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_do_while.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/coder.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/coder.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_fourteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_fourteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_data_types.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_data_types.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_ten.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_ten.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_nineteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_nineteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abs_layout.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/abs_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_four.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_four.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_abstract.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_abstract.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_ques_ans.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_ques_ans.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_exception.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_exception.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_first_program.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_first_program.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_fourteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_fourteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_seven.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_seven.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_exception_two.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_exception_two.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentythree.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentythree.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirtyfour.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirtyfour.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_package.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_package.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_methods.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_methods.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_ten.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_ten.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_second.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_second.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_constructor.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_constructor.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_if_else.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_if_else.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_eight.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_eight.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_sixteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_sixteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_thirteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_thirteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_variables.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_variables.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_four.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_four.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_super.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_super.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirty.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirty.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_seven.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_seven.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_exception_three.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_exception_three.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_eight.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_eight.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentyseven.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentyseven.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_fifteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_fifteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_while.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_while.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_foreach.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_foreach.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_features.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_features.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_overriding.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_overriding.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/programactionbar.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/programactionbar.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_first.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_first.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_constructor_overloading.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_constructor_overloading.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_operators.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_operators.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_second.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_second.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_strings.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_strings.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_first.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_first.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/splash.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_about_me.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_about_me.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentynine.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentynine.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_nineteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_nineteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentyone.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentyone.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_six.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_six.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_main2.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirtyfive.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirtyfive.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_inheritance.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_inheritance.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentyfive.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentyfive.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_twentytwo.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_twentytwo.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_programs.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_programs.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirtytwo.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirtytwo.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_five.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_five.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirtysix.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirtysix.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_nine.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_nine.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_myinterface.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_myinterface.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_java_basic.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_java_basic.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twelve.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twelve.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_sixteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_sixteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_modifiers.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_modifiers.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_oop.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_oop.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentysix.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentysix.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_nine.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_nine.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_eighteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_eighteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_java2.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_java2.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_arrays.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_arrays.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_switch.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_switch.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_set_java.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_set_java.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_six.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_six.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_seventeen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_seventeen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_for_loop.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_for_loop.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twenty.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twenty.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_cmd_arguments.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_cmd_arguments.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_user_input.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_user_input.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_objects_and_classes.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_objects_and_classes.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_exception_four.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_exception_four.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_twelve.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_twelve.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_third.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_third.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_eleven.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_eleven.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_eighteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_eighteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_fifteen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_fifteen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentyfour.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentyfour.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_main2.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_main2.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_twenty.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_twenty.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_method_overloading.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_method_overloading.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_third.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_third.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentytwo.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentytwo.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_break.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_break.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_twentyone.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_twentyone.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_seventeen.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_seventeen.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirtythree.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirtythree.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_fifth.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_fifth.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_thirtyone.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_thirtyone.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_program_twentythree.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_program_twentythree.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_continue.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_continue.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/activity_qand_a_twentyeight.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/activity_qand_a_twentyeight.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/layout/fragment_navigation_drawer.xml",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    }
+]

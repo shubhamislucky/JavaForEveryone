@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher2.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-xhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/mipmap-xhdpi/my_ic_launcher.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-xhdpi/my_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_iamcoder.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-xhdpi/ic_iamcoder.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/mipmap-xhdpi/my_launcher.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-xhdpi/my_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_action_add.png",
+        "source": "/Users/shubhamislucky/Documents/Java App/JavaForEverybody/app/src/main/res/mipmap-xhdpi/ic_action_add.png"
+    }
+]

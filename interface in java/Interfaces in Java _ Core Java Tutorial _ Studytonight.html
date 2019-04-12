@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)http://www.studytonight.com/java/java-interface -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Interfaces in Java | Core Java Tutorial | Studytonight</title>
+<meta name="keywords" content="Core java, Java tutorials, Java notes, JVM, JDK, J2SE, OOPS concepts, Inheritance, Encapsulation, Polymorphism, Abstraction, Java Constructor, Method Overiding, Interface, Exception Handling, Multi Threading, Java GUI, Java Networking, Generics, Java Input/output, Serialization,  Java Collection API,"> 
+<meta name="description" content="Interface is a pure abstract class.They are syntactically similar to classes, but you cannot create instance of an interface.Interface is used to achieve complete abstraction in Java ">
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- Le styles -->
+<link href="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/bootstrap.1475778534.css" rel="stylesheet">
+<link rel="icon" type="image/png" href="http://www.studytonight.com/css/resource/favicon.png">
+
+</head>
+<body>
+
+
+<div class="navbar navbar-fixed-top">
+<div class="navbar-inner">
+<div class="nav-container">
+<a class="brand" href="http://www.studytonight.com/" title="Take me Home :)"><img style="max-height:45px;" id="brand-icon" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/st-icon-dark.png" alt="studytonight.com"></a>
+
+<ul class="nav navbar-nav nav-left-responsive">
+<li id="hero-dropdown"><a href="http://studytonight.com/library/">Tutorials&nbsp;<span style="position:relative;top:-2px;"><img src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/Navbar-Arrow-Down.png" style="width:15px;height:auto"></span></a>
+<div class="nav-hero-dropdown">
+<div class="white-container" style="border-radius:2px;box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);">
+	<div class="row">
+		<div class="span1">
+			<a href="http://www.studytonight.com/java">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="malibu-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/java.png"></span></div><br>
+					<div class="option-box-text center"><small>JAVA</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/mongodb">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="tree-green-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/maven.png"></span></div><br>
+					<div class="option-box-text center"><small>MongoDB</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/dbms">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="light-purple-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/dbms.png"></span></div><br>
+					<div class="option-box-text center"><small>DBMS</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/c">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="cream-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/c.png"></span></div><br>
+					<div class="option-box-text center"><small>C</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/cpp">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="yellow-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/cpp.png"></span></div><br>
+					<div class="option-box-text center"><small>C++</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/data-structures">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="malibu-light-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/ds.png"></span></div><br>
+					<div class="option-box-text center"><small>Data Structure</small></div>
+				</div>
+				
+			</a>
+		</div>
+	</div>
+	<hr style="margin:0">
+	<div class="row">
+		<div class="span1">
+			<a href="http://www.studytonight.com/jsp">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="silver-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/jsp.png"></span></div><br>
+					<div class="option-box-text center"><small>JSP</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/servlet">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="cream-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/servlet.png"></span></div><br>
+					<div class="option-box-text center"><small>SERVLET</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/github">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="studio-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/github.png"></span></div><br>
+					<div class="option-box-text center"><small>GITHUB</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/computer-networks">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="tree-green-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/cn.png"></span></div><br>
+					<div class="option-box-text center"><small>Computer Network</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/operating-system">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="light-purple-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/os.png"></span></div><br>
+					<div class="option-box-text center"><small>Operating System</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/jenkins">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="malibu-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/jenkins.png"></span></div><br>
+					<div class="option-box-text center"><small>JENKINS</small></div>
+				</div>
+				
+			</a>
+		</div>
+	</div>
+	<hr style="margin:0">
+	<div class="row">
+		<div class="span1">
+			<a href="http://www.studytonight.com/ruby">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="yellow-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/ruby.png"></span></div><br>
+					<div class="option-box-text center"><small>RUBY</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/android-app-using-mit-appinventor">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="marine-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/android.png"></span></div><br>
+					<div class="option-box-text center"><small>MIT AppInventor</small></div>
+				</div>
+				
+			</a>
+		</div>
+		
+		<div class="span1">
+			<a href="http://www.studytonight.com/drools">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="malibu-light-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/drools.png"></span></div><br>
+					<div class="option-box-text center"><small>DROOLS</small></div>
+				</div>
+				
+			</a>
+		</div>
+		<div class="span1">
+			<a href="http://www.studytonight.com/maven">
+				<div class="space-10 nav-option-box">
+					<div class="center"><span class="shamrock-container space-10 round-5"><img class="option-box-img" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/maven.png"></span></div><br>
+					<div class="option-box-text center"><small>MAVEN</small></div>
+				</div>
+				
+			</a>
+		</div>
+	</div>
+</div>
+</div>
+</li>
+<li><a href="http://studytonight.com/studyroom/">Q &amp; A Forum</a></li>
+<li><a href="http://studytonight.com/tests/">Tests</a></li>
+<li><a href="http://studytonight.com/code/">HTML Course</a></li>
+</ul>
+
+<ul class="nav pull-right-menuoption nav-right-responsive">
+<!--
+<li>
+<form class="navbar-search" action="/search.php" method="GET"> 
+<table>
+<tr>
+<td><input type="text" name="q" maxlength="255" value="" class="search-query span1" placeholder="Search" title="Search Studytonight for Lessons and Topics"/></td>
+</tr>
+</table>
+</form>
+</li> -->
+<li><a href="http://www.studytonight.com/login">LogIn</a></li>
+<li><a href="http://www.studytonight.com/suggest">Suggest</a></li>
+</ul>
+<div class="nav pull-right-menuoption nav-right-responsive" style="margin-right:15px;">
+<span title="Download Studytonight Android App"><a href="https://play.google.com/store/apps/details?id=com.studytonight.app" target="_blank"><img src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/android(1).png" alt="Download Android App" style="max-width:36px;"></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a class="btn btn-warning" href="http://www.studytonight.com/register">SignUp</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<!--
+<div style="float:right;margin-right:100px;">
+<div class="bookmark-responsive">
+<div class="bookmark-ribbon traditional font-calibri">
+<a href="/collaborate" target="_blank"><div id="bookmark-text">
+<div>WRITE</div><div>FOR US &amp;</div><div>GET PAID!</div>
+</div></a>
+</div></div></div>
+--><div class="row">
+
+<div class="space-top-50 space-bottom-5 malibu-container">
+<div class="container center-med-small"><div id="subject-name">
+	CORE JAVA
+</div>
+<div class="pull-right hide-on-med-small">
+		<a href="http://www.studytonight.com/tests/?subject=java" class="link-inverse">
+			<div class="top-right-goto-test card card-light roboto">
+				<span class="tip-icon"></span>&nbsp;&nbsp;PRACTICE TESTS →
+			</div>
+		</a>
+	</div>
+</div>
+</div>
+</div><!-- Common sub nav bar for all the lesson page, currently holding Google Adsense Code -->
+
+<div class="center plain-text-ad-style" style="margin-bottom:10px;">
+<div class="container">
+<div class="row">
+<div class="span12">
+	<script type="text/javascript" async="" src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/ga.js.download"></script><script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive Footer Ad -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6137246359299957" data-ad-slot="1965829825" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>	
+</div>
+</div><div class="container">
+<div class="row">
+<script src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/jquery.1423906530.js.download"></script> 
+<script type="text/javascript">
+$(function() {
+
+$('#slide-toggle-sidebar').on('click', function(){
+        $('#sidebar-menu').css('width','100%');
+	$('#sidebar-menu').slideToggle();
+	return false;
+});
+
+});
+</script>
+
+<div class="span3">
+<div class="sidebar-collpsed-responsive">
+<a href="http://www.studytonight.com/java/java-interface#" id="slide-toggle-sidebar"><span class="pull-right"><img src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/collapsed-menu.png" alt="Menu"></span><span>SEE THE INDEX</span></a>
+</div>
+
+<div id="sidebar-menu">
+<div class="card card-light">
+
+<ul class="sidebar">
+<li class="main"><a href="http://www.studytonight.com/java/overview-of-java"><b>Basics of Java</b></a></li>
+
+
+<li class="main"><b>OOPS Concepts</b></li>
+<li><a href="http://www.studytonight.com/java/object-and-classes">Objects and Classes</a></li>
+<li><a href="http://www.studytonight.com/java/method-and-overloaded-method">Method Overloading</a></li>
+<li><a href="http://www.studytonight.com/java/constructor-in-java">Constructor in Java</a></li>
+<li><a href="http://www.studytonight.com/java/this-keyword-in-java">this keyword</a></li>
+<li><a href="http://www.studytonight.com/java/garbage-collection">Garbage Collection</a></li>
+<li><a href="http://www.studytonight.com/java/modifier-in-java">Java Modifiers</a></li>
+<li><a href="http://www.studytonight.com/java/inheritance-in-java">Inheritance</a></li>
+<li><a href="http://www.studytonight.com/java/aggregation">Aggregation</a></li>
+<li><a href="http://www.studytonight.com/java/method-overriding-in-java">Method Overriding</a></li>
+<li><a href="http://www.studytonight.com/java/dynamic-method-dispatch">Runtime Polymorphism</a></li>
+<li><a href="http://www.studytonight.com/java/instanceof-operator">instanceof Operator</a></li>
+<li><a href="http://www.studytonight.com/java/command-line-argument">Command line Argument</a></li>
+<li><a href="http://www.studytonight.com/java/package-in-java">Package</a></li>
+<li><a href="http://www.studytonight.com/java/abstract-class">Abstract class</a></li>
+<li><a href="http://www.studytonight.com/java/java-interface">Interface</a></li>
+<li><a href="http://www.studytonight.com/java/nested-classes">Nested Classes</a></li>
+
+<li class="main"><b>String Handling</b></li>
+<li><a href="http://www.studytonight.com/java/string-handling-in-java">Introduction to String</a></li>
+<li><a href="http://www.studytonight.com/java/string-class-functions">String class Fucntions</a></li>
+<li><a href="http://www.studytonight.com/java/stringbuffer-class">StringBuffer class</a></li>
+<li><a href="http://www.studytonight.com/java/stringbuilder-class">StringBuilder class</a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/exception-handling"><b>Exception Handling</b></a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/multithreading-in-java"><b>Multithreading in Java</b></a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/enumerations"><b>Advanced topics</b></a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/collection-framework"><b>Collection Framework</b></a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/java-applet"><b>Java GUI</b></a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/reflection-api"><b>Reflection API</b></a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/rmi-in-java"><b>RMI Application</b></a></li>
+
+<li class="main"><a href="http://www.studytonight.com/java/introduction-to-jdbc"><b>JDBC</b></a></li>
+</ul>
+
+<p style="margin-left:5px;" class="hide-on-med-small">
+<script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive Footer Ad -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6137246359299957" data-ad-slot="1965829825" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>
+</div>
+</div>
+</div><div class="span9">
+<div id="body-content">
+<h3>Interface</h3>
+<p>
+Interface is a pure abstract class.They are syntactically similar to classes, but you cannot create instance of an <b>Interface</b> and their methods are declared without any body. Interface is used to achieve complete <b>abstraction</b> in Java. When you create an interface it defines what a class can do without saying anything about how the class will do it. 
+</p>
+<p><b>Syntax :</b></p>
+<pre class="java">interface interface_name { }
+</pre>
+<hr>
+<h4>Example of Interface</h4>
+<p></p><pre class="java">interface Moveable 
+{ 
+ int AVERAGE-SPEED=40;
+ void move();
+}
+</pre>
+<p class="center"><img src="./Interfaces in Java _ Core Java Tutorial _ Studytonight_files/interface-in-java.jpg" alt="Interface in Java"></p>
+<p><b>NOTE : </b>Compiler automatically converts methods of Interface as public and abstract, and the data members as public, static and final by default.</p>
+<hr>
+<h4>Rules for using Interface</h4>
+<ul class="content">
+<li>Methods inside Interface must not be static, final, native or strictfp.</li>
+<li>All variables declared inside interface are implicitly public static final variables(constants).</li>
+<li>All methods declared inside Java Interfaces are implicitly public and abstract, even if you don't use public or abstract keyword.</li>
+<li>Interface can extend one or more other interface.</li>
+<li>Interface cannot implement a class.</li>
+<li>Interface can be nested inside another interface.</li>
+</ul>
+
+<hr>
+<h4>Example of Interface implementation</h4>
+<p></p><pre class="java">interface Moveable 
+{
+ int AVG-SPEED = 40;
+ void move();
+}
+
+class Vehicle implements Moveable 
+{
+ public void move()
+ {
+  System .out. print in ("Average speed is"+AVG-SPEED");
+ }
+ public static void main (String[] arg)
+ {
+  Vehicle vc = new Vehicle();
+  vc.move();
+ }
+}
+</pre>
+<p><b>Output :</b></p>
+<pre class="none">Average speed is 40.
+</pre>
+<hr>
+<h4>Interfaces supports Multiple Inheritance</h4>
+<p>Though classes in java doesn't suppost multiple inheritance, but a class can implement more than one interface.
+
+</p><pre class="java">interface Moveable 
+{
+ boolean isMoveable();
+}
+
+interface Rollable
+{
+ boolean isRollable
+}
+
+class Tyre implements Moveable, Rollable 
+{
+ int width;
+
+ boolean isMoveable()
+ {
+  return true;
+ }
+
+ boolean isRollable()
+ {
+  return true;
+ }
+ public static void main(String args[])
+ {
+  Tyre tr=new Tyre();
+  System.out.println(tr.isMoveable());
+  System.out.println(tr.isRollable());
+ }
+}
+</pre>
+<p><b>Output :</b></p>
+<pre class="none">true
+true
+</pre>
+
+<hr>
+<h4>Interface extends other Interface</h4>
+<p>Classes implements interfaces, but an interface extends other interface.</p>
+<pre class="java">interface NewsPaper
+{
+ news();
+}
+
+interface Magazine extends NewsPaper
+{
+ colorful();
+}
+
+</pre>
+<hr>
+<h4>Difference between an interface and an abstract class?</h4>
+<p>
+</p><table class="table table-bordered table-striped">
+<thead>
+<tr><th class="center">Abstract class</th><th class="center">Interface</th></tr>
+</thead>
+<tbody>
+<tr><td>Abstract class is a class which contain one or more abstract methods, which has to be implemented by its sub classes.</td> <td>Interface is a Java Object containing method declaration but no implementation. The classes which implement the Interfaces must provide the method definition for all the methods.</td></tr> <tr><td>Abstract class is a Class prefix with an abstract keyword followed by Class definition.</td><td>Interface is a pure abstract class which starts with interface keyword.</td></tr>
+<tr><td>Abstract class can also contain concrete methods.</td><td>Whereas, Interface contains all abstract methods and final variable declarations.</td></tr>
+<tr><td>Abstract classes are useful in a situation that Some general methods should be implemented and specialization behavior should be implemented by child classes.</td><td>Interfaces are useful in a situation that all properties should be implemented.</td></tr>
+</tbody>
+</table>
+<p></p>
+<hr>
+<div><ul class="pager">
+<li class="previous">
+<a href="http://www.studytonight.com/java/abstract-class.php">← Prev</a>
+</li>
+<li class="next">
+<a href="http://www.studytonight.com/java/nested-classes.php">Next →</a>
+</li>
+</ul></div>
+</div>
+</div>
+</div>
+</div><!-- Container Ends here--> 
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39722043-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div class="container margin-30">
+	<div class="row">
+		<div class="span12">
+			<script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive Footer Ad -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6137246359299957" data-ad-slot="1965829825" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div>
+	</div>
+</div>
+
+<div id="footer" class="hide-on-med-small">
+<div class="container margin-30 roboto">
+	<div class="row">
+		<div class="span3">
+			<p>What is Studytonight?</p>
+			<p><a href="http://www.studytonight.com/about">About Us</a></p>
+			<p><a href="http://www.studytonight.com/howitworks">How it Works</a></p>
+			<p><a href="http://www.studytonight.com/authors">Authors</a></p>
+			<p><a href="http://www.studytonight.com/collaborate">Collaborate</a></p>
+			<p><a href="http://www.studytonight.com/contact">Contact Us</a></p>
+			<p><a href="http://www.studytonight.com/suggest">Suggest</a></p>
+			<p><a href="http://blog.studytonight.com/" target="_blank">Blog</a></p>
+		</div>
+		<div class="span3">
+			<p>Tutorials</p>
+				<div>
+					<p><a href="http://www.studytonight.com/java">Core Java</a></p>
+					<p><a href="http://www.studytonight.com/cpp">C++</a></p>
+					<p><a href="http://www.studytonight.com/data-structures">Data Structures</a></p>
+					<p><a href="http://www.studytonight.com/jenkins">Jenkins Server</a></p>
+					<p><a href="http://www.studytonight.com/dbms">DBMS</a></p>
+					<p><a href="http://www.studytonight.com/servlet">Servlet</a></p>
+					<p><a href="http://www.studytonight.com/library">More...</a></p>
+				</div>
+		</div>
+		<div class="span3">
+			<p>Tests</p>
+				<div>
+					<p><a href="http://www.studytonight.com/tests">Core Java</a></p>
+					<p><a href="http://www.studytonight.com/tests?/?subject=cpp">C++</a></p>
+					<p><a href="http://www.studytonight.com/tests?/?subject=dbms">DBMS</a></p>
+					<p><a href="http://www.studytonight.com/tests?/?subject=c">C Language</a></p>
+					<p><a href="http://www.studytonight.com/tests">More...</a></p>
+				</div>
+		</div>
+		<div class="span3">
+			<p>Learn to Code</p>
+				<div>
+					<p><a href="http://www.studytonight.com/code/html">HTML</a></p>
+					<br><br>
+					<p>
+						<a href="http://facebook.com/Studytonight" target="_blank"><span class="facebook-32"></span></a>&nbsp;&nbsp;
+						<a href="http://twitter.com/studytonight" target="_blank"><span class="twitter-32"></span></a>&nbsp;&nbsp;
+						<a href="https://plus.google.com/+Studytonight/" target="_blank"><span class="googleplus-32"></span></a>
+					</p>
+					<br>
+					<p>© 2016 Studytonight
+				</p></div>
+		</div>
+
+	</div>  <!-- /row-->
+</div> <!-- /container -->
+</div>  <!-- /footer -->
+
+</body></html>

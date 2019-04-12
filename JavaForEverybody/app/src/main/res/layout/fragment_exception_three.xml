@@ -1,0 +1,222 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Exception_three"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/exc_three_first"
+                android:layout_width = "match_parent"
+                android:layout_height = "wrap_content"
+                android:textColor = "#f1a727"
+                android:letterSpacing = "0.03"
+                android:background = "#efefef"
+                android:gravity="center_horizontal"
+                android:paddingBottom = "10dp"
+                android:paddingTop = "10dp"
+                android:textSize = "20sp"
+                android:text = "throw and throws"
+                />
+            <TextView
+                android:id="@+id/exc_three_second"
+                android:layout_width = "match_parent"
+                android:layout_height = "wrap_content"
+                android:layout_marginTop = "20dp"
+                android:textSize = "17sp"
+                android:textColor = "#333"
+                android:layout_gravity = "center_horizontal"
+                android:gravity="fill_horizontal"
+                android:letterSpacing = "0.02"
+                android:lineSpacingMultiplier = "1.2"
+                android:paddingLeft="15dp"
+                android:text="@string/exc_three_throw"
+                />
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/exc_three_four"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#333"
+                    android:textSize="13sp"
+                    android:lineSpacingMultiplier="1.7"
+                    android:gravity="fill_horizontal"
+                    android:background="@drawable/rounded_corner"
+                    android:padding="15dp"
+                    android:paddingRight="45dp"
+                    android:text="@string/exc_throw_ex"
+                    android:layout_marginTop="30dp"
+                    android:scrollHorizontally="true"
+                    />
+            </HorizontalScrollView>
+            <TextView
+                android:id="@+id/exc_three_five"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#555"
+                android:textSize="17sp"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:lineSpacingMultiplier="1.2"
+                android:letterSpacing="0.02"
+                android:text="@string/misc_output"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:id="@+id/exc_three_six"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:letterSpacing="0.03"
+                android:lineSpacingMultiplier="1.2"
+                android:gravity="fill_horizontal"
+                android:background="@drawable/commandprompt"
+                android:paddingLeft="15dp"
+                android:paddingBottom="20dp"
+                android:paddingTop="15dp"
+                android:text="@string/throw_output"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                />
+            <TextView
+                android:id="@+id/exc_three_seven"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:background="#efefef"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:letterSpacing="0.03"
+                android:paddingStart="9dp"
+                android:paddingLeft="9dp"
+                android:text="throws keyword :"
+                android:textColor="#333"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/exc_three_eight"
+                android:layout_width = "match_parent"
+                android:layout_height = "wrap_content"
+                android:layout_marginTop = "20dp"
+                android:textSize = "17sp"
+                android:textColor = "#333"
+                android:layout_gravity = "center_horizontal"
+                android:gravity="fill_horizontal"
+                android:letterSpacing = "0.02"
+                android:lineSpacingMultiplier = "1.2"
+                android:paddingLeft="15dp"
+                android:text="@string/throws_def"
+                />
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/exc_three_nine"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#333"
+                    android:textSize="13sp"
+                    android:lineSpacingMultiplier="1.7"
+                    android:gravity="fill_horizontal"
+                    android:background="@drawable/rounded_corner"
+                    android:padding="15dp"
+                    android:paddingRight="45dp"
+                    android:text="@string/throws_syntax"
+                    android:layout_marginTop="30dp"
+                    android:scrollHorizontally="true"
+                    />
+            </HorizontalScrollView>
+            <TextView
+                android:id="@+id/exc_three_ten"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:background="#efefef"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:letterSpacing="0.03"
+                android:paddingStart="9dp"
+                android:paddingLeft="9dp"
+                android:text="Example demonstrating throws keyword :"
+                android:textColor="#333"
+                android:textSize="20sp"
+                />
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/exc_three_eleven"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#333"
+                    android:textSize="13sp"
+                    android:lineSpacingMultiplier="1.7"
+                    android:gravity="fill_horizontal"
+                    android:background="@drawable/rounded_corner"
+                    android:padding="15dp"
+                    android:paddingRight="45dp"
+                    android:text="@string/throws_ex"
+                    android:layout_marginTop="30dp"
+                    android:scrollHorizontally="true"
+                    />
+            </HorizontalScrollView>
+            <TextView
+                android:id="@+id/exc_three_twelve"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#555"
+                android:textSize="17sp"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:lineSpacingMultiplier="1.2"
+                android:letterSpacing="0.02"
+                android:text="@string/misc_output"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:id="@+id/exc_three_thirteen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:letterSpacing="0.03"
+                android:lineSpacingMultiplier="1.2"
+                android:gravity="fill_horizontal"
+                android:background="@drawable/commandprompt"
+                android:paddingLeft="15dp"
+                android:paddingBottom="20dp"
+                android:paddingTop="15dp"
+                android:text="@string/throws_output"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                />
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

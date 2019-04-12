@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="me.shubhamsingh.javaforeverybody.FirstProgram"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/first_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/printhello"
+                android:textSize="20sp"
+                android:textColor="#333"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:lineSpacingMultiplier="1.2"
+                android:paddingLeft="9dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="#efefef"
+                android:textStyle="bold"
+                />
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/first_two"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rounded_corner"
+                    android:layout_marginTop="25dp"
+                    android:textSize="14sp"
+                    android:letterSpacing="0.03"
+                    android:lineSpacingMultiplier="1.7"
+                    android:text="@string/firstprog"
+                    android:padding="15dp"
+                    android:paddingRight="20dp"
+                    android:scrollHorizontally="true"
+                    />
+            </HorizontalScrollView>
+            <TextView
+                android:id="@+id/first_three"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:letterSpacing="0.03"
+                android:lineSpacingMultiplier="1.2"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:textColor="#333333"
+                android:text="@string/first_follow_steps"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="250dp"
+                android:minWidth="20dp"
+                android:src="@drawable/helloworld"
+                android:scaleType="fitCenter"
+                android:layout_marginTop="20dp"
+                />
+            <TextView
+                android:id="@+id/first_four"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textColor="#333"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:text="@string/first_heading_understand"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="9dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="#efefef"
+                />
+            <TextView
+                android:id="@+id/first_five"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:letterSpacing="0.03"
+                android:lineSpacingMultiplier="1.2"
+                android:layout_centerHorizontal="true"
+                android:gravity="fill_horizontal"
+                android:textColor="#333333"
+                android:text="@string/first_understand"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:layout_marginBottom="25dp"
+                />
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
